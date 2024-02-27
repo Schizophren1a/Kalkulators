@@ -1,2 +1,0 @@
-# Kalkulators
-Kalkulators
